@@ -1,0 +1,17 @@
+distilbert-base-uncased - tokenizer ze znakami interpunkcyjnymi
+facebook/bart-large - tez
+google/bigbird-roberta-base - tez
+microsoft/biogpt - tez
+bigscience/bloom - tez
+almanach/camembert-base - tez
+google/canine-c - character tokenizer without punctuation marks
+codellama/CodeLlama-7b-hf - tokenizer ze znakami interpunkcyjnymi
+YituTech/conv-bert-base - tez
+Salesforce/ctrl - znaki interpunkcyjne doklejone do tokenow slow
+microsoft/deberta-base - ze znakami interpunkcyjnymi
+microsoft/deberta-v2-xlarge - tez
+distilbert/distilbert-base-uncased - tez
+google/electra-small-discriminator - tez
+nghuyong/ernie-1.0-base-zh - tez, uncased
+deepmind/language-perceiver - character based tokenizer
+
