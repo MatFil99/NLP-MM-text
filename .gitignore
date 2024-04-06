@@ -163,3 +163,7 @@ cython_debug/
 # My exlusions
 models/
 tutorials/
+bert-base-uncased-cmumosi-c2-l/
+bert-base-uncased_cmumosi_c2_l
+wandb/
+test-trainer/
